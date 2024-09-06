@@ -14,11 +14,14 @@ Act 4 trabajando con lista, tuplas, conjuntos y diccionarios
 - ![image](https://github.com/user-attachments/assets/d653a995-3a95-4e4e-8464-24cb457054cd)
 - 
 - Diccionario
-- ![image](https://github.com/user-attachments/assets/e5ee23df-fa8e-4473-b144-fec38f4607d7)
+- ![image](https://github.com/user-attachments/assets/08a3383d-77e3-4b25-a8f5-606e4d682334)
+
 - resultado
-- ![image](https://github.com/user-attachments/assets/cf7d94d6-6a9d-4909-9e5a-9c6316320c02)
+- ![image](https://github.com/user-attachments/assets/1fb4a32e-370e-4858-be7d-ff14207e2e5c)
+-
 
 - conjunto
-- ![image](https://github.com/user-attachments/assets/4b1c4a95-dd9c-40fd-a1a7-d79f6f516d10)
--   ![image](https://github.com/user-attachments/assets/b0744ef5-b993-4e57-a0e3-b0accdf56f06)
-
+-![image](https://github.com/user-attachments/assets/ecedf930-f7d2-415d-b434-a2b6c37f580a)
+-
+- resultado
+-![image](https://github.com/user-attachments/assets/515d4e07-8bf5-473c-8da7-07810f1e61a0)
